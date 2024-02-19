@@ -1,0 +1,6 @@
+.doone{
+    background-image: url(../../logo.svg);
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+}
